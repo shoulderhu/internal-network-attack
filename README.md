@@ -1,3 +1,20 @@
+# Installation
+```bash
+sudo npm install -g create-react-app
+npm cache verify
+npx create-react-app internal-network-attack
+cd internal-network-attack
+npm start
+```
+
+# Deploy
+## Fist Time
+```bash
+git remote add origin https://github.com/shoulderhu/internal-network-attack.git
+npm install --save-dev gh-pages
+npm run deploy
+```
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
