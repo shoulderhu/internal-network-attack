@@ -11,7 +11,20 @@ npm start
 ## Fist Time
 ```bash
 git remote add origin https://github.com/shoulderhu/internal-network-attack.git
+git add .
+git commit -m "..."
+git push origin master
+
 npm install --save-dev gh-pages
+npm run deploy
+```
+
+## Afterwards
+```bash
+git add .
+git commit -m "..."
+git push origin master
+
 npm run deploy
 ```
 
