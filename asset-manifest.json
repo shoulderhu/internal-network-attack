@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/internal-network-attack/static/css/main.d1b05096.chunk.css",
+    "main.js": "/internal-network-attack/static/js/main.d0ae28a5.chunk.js",
+    "main.js.map": "/internal-network-attack/static/js/main.d0ae28a5.chunk.js.map",
+    "runtime-main.js": "/internal-network-attack/static/js/runtime-main.72682674.js",
+    "runtime-main.js.map": "/internal-network-attack/static/js/runtime-main.72682674.js.map",
+    "static/js/2.49f28ab7.chunk.js": "/internal-network-attack/static/js/2.49f28ab7.chunk.js",
+    "static/js/2.49f28ab7.chunk.js.map": "/internal-network-attack/static/js/2.49f28ab7.chunk.js.map",
+    "index.html": "/internal-network-attack/index.html",
+    "precache-manifest.945d8704c5ea5da5db90d47489490690.js": "/internal-network-attack/precache-manifest.945d8704c5ea5da5db90d47489490690.js",
+    "service-worker.js": "/internal-network-attack/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/internal-network-attack/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.49f28ab7.chunk.js.LICENSE.txt": "/internal-network-attack/static/js/2.49f28ab7.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/internal-network-attack/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72682674.js",
+    "static/js/2.49f28ab7.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.d0ae28a5.chunk.js"
+  ]
+}
